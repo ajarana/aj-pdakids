@@ -179,7 +179,7 @@
 	 }
  
     $.ajax({
-		  // url: "submit.php",
+		   url: "submit.php",
            type: "POST",
            data: $("#basicForm").serialize(),     // serialize your form's elements.
            success: function(data)
