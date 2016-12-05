@@ -26,15 +26,15 @@ $("#contactForm").submit(function(e) {
         return false;
     }
  
-    $.ajax({
+    //$.ajax({
 		 //  url: "submit.php",
-           type: "POST",
-           data: $("#contactForm").serialize(),     // serialize your form's elements.
-           success: function(data)
-           {
+        //   type: "POST",
+        //   data: $("#contactForm").serialize(),     // serialize your form's elements.
+        //   success: function(data)
+          // {
           		$("#contactForm").html("<div class='well well-sm'><h4 class='text-primary'>Your information has successfully been received. Thank you.</h4></div>");
-           }
-         });
+        //   }
+      //   });
 
    return false;    // avoids default form submission
 
