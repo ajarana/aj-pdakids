@@ -1,7 +1,5 @@
-
-
 $("#contactForm").submit(function(e) {
-$('input,textarea').attr('autocomplete', 'off');
+
   	 var arrayLength = document.getElementsByClassName("formField").length;
     var error = 0;
     

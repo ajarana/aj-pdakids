@@ -27,7 +27,7 @@ $("#contactForm").submit(function(e) {
     }
  
     $.ajax({
-		   url: "submit.php",
+		 //  url: "submit.php",
            type: "POST",
            data: $("#contactForm").serialize(),     // serialize your form's elements.
            success: function(data)
