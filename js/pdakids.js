@@ -35,7 +35,7 @@ $("#contactForm").submit(function(e) {
          //  }
         // });
 
-   document.getElementById("formButton").disabled = true;
+   //document.getElementById("formButton").disabled = true;
    return false;    // avoids default form submission
 
 });
