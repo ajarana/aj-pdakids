@@ -65,6 +65,7 @@ label {
 	outline: none;
 	transition: border-color ease-in-out 0.15s;
 	box-shadow: none;
+	-webkit-box-shadow: none;
 }
 
 .normalInput {
