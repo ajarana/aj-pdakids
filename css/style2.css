@@ -140,16 +140,16 @@ textarea.form-control{
 }
 
 #test > div {
-	color: #337ab7;
+	color: white;
 	/*color: hsl(210, 60%, 50%);*/
-   background-color: white;
+   background-color: #337ab7;
    border: 1px solid #2274ad;
 	transition: color 0.2s linear 0s, background-color 0.2s linear 0s;
 }
 
 #test:hover > div {
-   color: white;
-	background-color: #337ab7;
+   color: #337ab7;
+	background-color: white;
 }
 
 /*#test2 {
