@@ -139,6 +139,35 @@ textarea.form-control{
 	background-color: #2f6fa5;
 }
 
+#test > div {
+	color: #337ab7;
+	/*color: hsl(210, 60%, 50%);*/
+	transition: color 0.2s linear 0s;
+}
+
+#test2 {
+	transition: background-color 0.2s linear 0s;
+}
+
+#test2:hover > a > div{
+	color: white;
+}
+
+#test2:hover {
+	background-color: #337ab7;
+}
+
+/*#test2 {
+	width: 46px;
+	background-color: #337ab7;
+	transition: width 0.2s linear 0s, color 0.2s linear 0s;
+}
+
+#test:hover + #test2 {
+	background-color: #26689c;
+	width: 153px;
+}*/
+
 .well {
 	min-height: 20px;
 	padding: 9px;

@@ -4,7 +4,7 @@
 	<title>Charlottesville VA mental health practice for children, adolescents, and families | Poehailos, Dupont & Associates, PLC</title>
 	<meta name="keywords" content="Charlottesville, Virginia, pscyhologist, psychiatrist, children's therapy, mental health, children, families, poehailos, dupont, social worker, psychotherapy, group therapy, family therapy, business therapy, ADHD, autism">
 	<meta name="description" content="Charlottesville mental health practice: Poehailos, Dupont & Associates, PLC.  Family-based treatment in Charlottesville, Virginia.">
-	<link rel="stylesheet" href="style.css" type="text/css">
+	<link rel="stylesheet" href="css/style2.css" type="text/css">
 </head>
 <body>
 <table border="1" bordercolor="#000000" cellspacing="0" cellpadding="0" width=100%>
@@ -55,8 +55,10 @@
 			</tr>						
 			</table>
 			<p>Please come 15 minutes early for your first appointment.			</p>
-			<p style="line-height:30px">- <a href="Fee Schedule 11-2015.pdf" target="_blank">Fee Schedule<br></p>
-			<p style="line-height:30px; padding-top: 20px; border-top: 1px solid #ddd;"><a style="padding-left: 8px;color: 2b6dad; text-decoration: none; font-family: sans-serif; font-size: 28px;" href="contactus.html">New Patients</a><br></p>
+			<p style="line-height:30px; padding-bottom: 10px;">- <a href="Fee Schedule 11-2015.pdf" target="_blank">Fee Schedule</a><br></p>
+			<div id='test1' style="margin-bottom: 15px; margin-top: 25px; border-top: 1px solid #ddd;">
+			<div id='test2' style="width:20%; margin: 0 auto">
+			<a id="test" style="text-decoration: none; font-family: sans-serif; font-size: 26px;" href="contactus.html"><div style="position: relative; line-height:30px; padding: 16px 0; text-align: center; box-shadow: 0px 1px 4px rgba(0,0,0,0.06); margin-top: 35px; border: 1px solid #337ab7;;">New Patients</div></a></div></div>
 <br>	
 			</td>		
 		</tr>
