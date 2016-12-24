@@ -125,6 +125,7 @@ textarea.form-control{
 	appearance: none;
 	background-image: none;
 	border: 1px solid transparent;
+	border: 1px solid hsl(208, 36%, 46%);
 	border-radius: 4px;
 	cursor: pointer;
 }
@@ -136,8 +137,7 @@ textarea.form-control{
 
 .btn-primary:hover {
 	color: #ffffff;
-	background-color: #2f6fa5;
-	
+	background-color: hsl(208, 56%, 41.5%);
 }
 
 #contactUsLink {
@@ -162,7 +162,7 @@ textarea.form-control{
 }
 
 #contactUsButton:hover {
-	background-color: hsl(208, 56%, 42%);
+	background-color: hsl(208, 56%, 41.5%);
 	box-shadow: 2px 3px 10px -1px rgba(0,0,0,0.45);
 }
 
